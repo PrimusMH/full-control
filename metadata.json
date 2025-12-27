@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS OS",
+  "description": "A futuristic AI-powered system control interface featuring real-time voice interaction, visual analysis, and system monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
